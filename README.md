@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I’m Success Edet  
 
-<!--
-**Success-Edet/Success-Edet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a *Data Analyst* with a background in Chemistry Education and a passion for turning raw data into actionable insights.  
+I specialize in *Excel, SQL, Python, and Power BI*.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- Excel & Google Sheets  
+- SQL (MySQ)  
+- Python   
+- Power BI  
+- Data Cleaning, Analysis & Visualization  
+
+---
+
+## 📊 Featured Projects
+- [Amazon Sales Analysis](https://github.com/Success-Edet/amazon-sales-analysis)  
+- [Maji Ndogo Water Revenue](https://github.com/Success-Edet/maji-ndogo-revenue)  
+    
+
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](https://bit.ly/Success-Edet)  
+  
